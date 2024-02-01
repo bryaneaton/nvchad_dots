@@ -34,6 +34,12 @@ M.mason = {
     "deno",
     "prettier",
 
+    --python stuff
+    "pyright",
+
+    --dotnet stuff
+    "omnisharp",
+
     -- c/cpp stuff
     "clangd",
     "clang-format",
