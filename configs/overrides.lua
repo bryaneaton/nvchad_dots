@@ -36,7 +36,9 @@ M.mason = {
 
     --python stuff
     "pyright",
-
+    "debugpy",
+    "black",
+   
     --dotnet stuff
     "omnisharp",
 
