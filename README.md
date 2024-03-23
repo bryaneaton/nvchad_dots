@@ -6,7 +6,7 @@
 `git clone https://github.com/bryaneaton/nvchad_dots.git ~/.config/nvim/lua/custom --depth 1 && nvim`
 
 ### Add a breakpoint in python
-<leader> d p 
+<leader> d b
 
 #### Run a debug session
-<leader> d p r
+<leader> d b r
